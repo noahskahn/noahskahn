@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahskahn
 - 👀 I’m invested in Computer Science and STEM as a whole, specifically in programming, chemistry, and physics!
-- 🌱 I’m currently studying at University School of Nashville
+- 🌱 I’m currently studying at University of Chicago
 - 📫 Reach me at noahsilaskahn@gmail.com
 
 <!---
