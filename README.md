@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noahskahn
-- 👀 I’m invested in Computer Science and STEM as a whole, specifically in programming, chemistry, and physics!
+- 👀 I’m invested in Computer Science and STEM as a whole with a focus on AI & Physics!
 - 🌱 I’m currently studying at University of Chicago
 - 📫 Reach me at noahsilaskahn@gmail.com
 
