@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @noahskahn
-- 👀 I’m learning all about science with a focus on physics, engineering, and everything computers!
-- 🌱 I’m currently studying at University of Chicago
+- 🌱 I’m currently studying Quantum Molecular Engineering at the University of Chicago
 - 📫 Reach me at noahsilaskahn@gmail.com
 
 <!---
